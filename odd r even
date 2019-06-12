@@ -1,5 +1,0 @@
-oe=int(input())
-if oe%2!=0:
-  print("Odd")
-else:
-  print("Even")
