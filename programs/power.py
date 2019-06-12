@@ -1,4 +1,3 @@
-k=int(input())
-s=int(input())
+k,s=map(int,(input().split()))
 m=k**s
 print(m)
