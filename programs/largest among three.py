@@ -1,6 +1,4 @@
-x=int(input())
-y=int(input())
-z=int(input())
+x,y,z=map(int,input().split())
 if x>y and x>z:
   print(x)
 elif y>x and y>z:
