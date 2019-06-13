@@ -1,7 +1,10 @@
-n=int(input())
-if n==0 or n==1:
-  print("no")
-elif n%n==0:
-  print("yes")
-else:
-  print("no")    
+ = int(input())  
+if (p > 1):  
+   for i in range(2,p):  
+       if (p % i) == 0:  
+           print("no")  
+           break
+   else:  
+       print("yes")  
+else:  
+   print("no")
