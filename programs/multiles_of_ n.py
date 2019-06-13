@@ -1,4 +1,4 @@
 n=int(input())
-for i in range(n,(n*n)+1):
-   if(i%n==0):
-     print(i,end=" ")
+for i in range(1,n+1):
+   s=i*n
+     print(s,end=" ")
