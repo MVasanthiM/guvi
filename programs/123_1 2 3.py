@@ -1,3 +1,3 @@
 d=input()
-for i in d:
-  print(i,end=" ")
+for t in d:
+  print(t,end=" ")
