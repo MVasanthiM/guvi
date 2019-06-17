@@ -1,0 +1,6 @@
+b=int(input())
+ls=list(map(int,input().split()))
+s=sorted(ls)
+m=max(s)
+mi=min(s)
+print(m,mi,end=" ")
