@@ -1,2 +1,2 @@
-g=str(input())
-print(g.title())
+gppp=str(input())
+print(gppp.title())
