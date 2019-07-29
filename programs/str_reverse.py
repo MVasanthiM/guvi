@@ -1,3 +1,3 @@
 sss=input()
-sss=[::-1]
-print(sss)
+ssss=sss[::-1]
+print(ssss)
